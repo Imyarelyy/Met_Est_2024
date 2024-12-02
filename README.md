@@ -7,4 +7,4 @@
 + :paperclip: Semana 1: Introducción al curso de Métodos Estadísticos.
 + :newspaper: Semana 2: Crear nuestra cuenta de GitHub (Imyarelyy) asi como el primer repositorío.
 
-  🥉: Semana 3: 
++ 🥉: Semana 3: 
