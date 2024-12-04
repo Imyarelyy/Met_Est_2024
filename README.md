@@ -3,7 +3,15 @@
 :dart: Repositorio del curso de Métodos Estadísticos Agosto 2024 del programa de Ingeniero Forestal 
 
 ## Apartados 
+📂 Clase - Ejercicios de clase
 
+📂 Examenes - Examenes parciales del curso 
+
+📂 Laboratorios - Laboratorios del curso
+
+📂 Scripts - Ejercicios y scripts elaborados del curso
+
+📂 Tareas - Tareas del curso
 
 ## Contenído
 
@@ -15,13 +23,13 @@
 + 🦋: Semana 6: Elaboración de el script 2 sobre la extracción de datos, instalación de paquetes y realización de boxplot. 
 + 🦋: Semana 7: Elaboración de el script 3 sobre datos de madera y comparación de la varianza. 
 + 🦋: Semana 8: Hicimos repaso. 
-+ 🦋: Semana 9: Elaboración de el guión 4 una muestra experimental vs una muestar teórica, asi como comparación de muestras dependientes e independientes. 
++ 🦋: Semana 9: Elaboración de el script 4 una muestra experimental vs una muestar teórica, asi como comparación de muestras dependientes e independientes. 
 + 🦋: Semana 10: Se presento el primer parcial. 
 + 🦋: Semana 12: Elaboración de el script 6 sobre datos de pseodostrobus.
 + 🦋: Semana 13: Elaboración de el script 7 sobre análisis de correlación  de datos.
-+ 🦋: Semana 14: Elaboración del guión 8 sobre la rgresión lineal de variables.
++ 🦋: Semana 14: Elaboración de el script 8 sobre la rgresión lineal de variables.
 + 🦋: Semana 15: Se presento el segundo parcial.
-+ 🦋: Semana 16: Elaboración de el ultimo guión de Análisis de Varianzas.
++ 🦋: Semana 16: Elaboración de el ultimo script 9 "Análisis de Varianzas".
 + 🦋: Semana 17: Clase libre.
 + 🦋: Semana 18: Se presento el examen final sobre ANOVA y la prueba de Tukey. 
 
