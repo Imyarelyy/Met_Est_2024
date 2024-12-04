@@ -12,12 +12,11 @@
 + 🦋: Semana 6: Elaboración de el script 2 sobre la extracción de datos, instalación de paquetes y realización de boxplot. 
 + 🦋: Semana 7: Elaboración de el script 3 sobre datos de madera y comparación de la varianza. 
 + 🦋: Semana 8: Hicimos repaso. 
-+ 🦋: Semana 9: Elaboración de una muestra experimental vs una muestar teórica, asi como comparación de muestras dependientes e independientes. 
++ 🦋: Semana 9: Elaboración de el guión 4 una muestra experimental vs una muestar teórica, asi como comparación de muestras dependientes e independientes. 
 + 🦋: Semana 10: Se presento el primer parcial. 
-+ 🦋: Semana 11:
-+ 🦋: Semana 12:
-+ 🦋: Semana 13:
-+ 🦋: Semana 14:
++ 🦋: Semana 12: Elaboración de el script 6 sobre datos de pseodostrobus.
++ 🦋: Semana 13: Elaboración de el script 7 sobre análisis de correlación  de datos.
++ 🦋: Semana 14: Elaboración del guión 8 sobre la rgresión lineal de variables.
 + 🦋: Semana 15: Se presento el segundo parcial.
 + 🦋: Semana 16: Elaboración de el ultimo guión de Análisis de Varianzas.
 + 🦋: Semana 17: Clase libre.
