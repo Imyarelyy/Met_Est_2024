@@ -3,7 +3,9 @@
 :dart: Repositorio del curso de Métodos Estadísticos Agosto 2024 del programa de Ingeniero Forestal 
 
 ## Apartados 
-📂 Clase - Ejercicios de clase 
+📂 Clase - Trabajos de la primera clase 
+
+📂 Ejercicios - Ejercicios de clase 
 
 📂 Examenes - Examenes parciales del curso 
 
