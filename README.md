@@ -33,5 +33,4 @@
 + 🦋: Semana 17: Clase libre.
 + 🦋: Semana 18: Se presento el examen final sobre ANOVA y la prueba de Tukey. 
 
-
-
+![Commits over time (1)](https://github.com/user-attachments/assets/e3c12c7c-fe10-45a9-b481-82ccc7b8b153)
