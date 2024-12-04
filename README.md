@@ -1,4 +1,4 @@
-# Curso Métodos Estadísticos 
+        # Curso Métodos Estadísticos 
 ## Descripción:
 :dart: Repositorio del curso de Métodos Estadísticos Agosto 2024 del programa de Ingeniero Forestal 
 
