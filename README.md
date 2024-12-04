@@ -5,7 +5,6 @@
 ## Apartados 
 
 
-
 ## Contenído
 
 + 🦋: Semana 1: Introducción al curso de Métodos Estadísticos.
